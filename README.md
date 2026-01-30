@@ -11,7 +11,7 @@ The client migrated the website to Shopify to improve stability, performance, an
 **🔗 [View Live Website](https://www.trendwindows.com.au/)**
 
 ## My Role
-Full Stack Developer
+Full Stack Developer 
 
 ## Key Contributions
 - Reviewed and documented the legacy system structure
